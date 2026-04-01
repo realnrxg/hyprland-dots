@@ -1,7 +1,7 @@
 ### Personal dot files for hyprland
 
 
-![image alt](https://github.com/realnrxg/hyprland-dots/blob/31574c861da1760947d8cb7f2009c055b8756835/showcase/Showcase.png)
+![image alt](https://github.com/realnrxg/hyprland-dots/blob/93a3d72d1d96dc5c2886a19347d2c51ea3264685/showcase/show.png)
 
 
 ## SET UP
@@ -16,7 +16,7 @@
 - **LOCK:** gtklock
 
 ## DEPENDENCIES
-- hyprland,hyprshot,waybar,dunst,fish,rofi,waypaper,mpvpaper,ssdm,gtklock
+- hyprland,hyprshot,waybar,dunst,fish,rofi,waypaper,mpvpaper,ssdm,gtklock,pavucontrol
 
 # IF U WANNA USE SOMETHING ELSE THAN GTKLOCK
 
