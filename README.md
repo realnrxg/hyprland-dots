@@ -20,7 +20,7 @@
 
 # IF U WANNA USE SOMETHING ELSE THAN GTKLOCK
 
-go to ~/.config/waybar/config
+go to '~/.config/waybar/config'
 find "custom/power"
 under "lock":
 change from "gtklock" to ur desired lock screen manager
