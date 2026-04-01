@@ -1,7 +1,7 @@
 ### Personal dot files for hyprland
 
 
-
+![image alt](https://github.com/realnrxg/hyprland-dots/blob/31574c861da1760947d8cb7f2009c055b8756835/showcase/Showcase.png)
 
 
 ## SET UP
