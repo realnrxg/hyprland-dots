@@ -16,7 +16,7 @@
 - **LOCK:** gtklock
 
 ## DEPENDENCIES
-- hyprland,hyprshot,waybar,dunst,fish,rofi,waypaper,mpvpaper,ssdm,gtklock,pavucontrol
+- hyprland,hyprshot,waybar,dunst,fish,rofi,waypaper,mpvpaper,ssdm,gtklock,pavucontrol,ttf-jetbrains-mono-nerd
 
 # IF U WANNA USE SOMETHING ELSE THAN GTKLOCK
 
