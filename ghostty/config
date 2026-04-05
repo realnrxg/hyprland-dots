@@ -4,7 +4,6 @@
 # # part of the value. For example, this will have a value of "#123abc":
 # background = #123abc
 #
-#
 custom-shader = ~/.config/ghostty/shaders/cursor_warp.glsl
 custom-shader = ~/.config/ghostty/shaders/bloom.glsl
 confirm-close-surface = false
